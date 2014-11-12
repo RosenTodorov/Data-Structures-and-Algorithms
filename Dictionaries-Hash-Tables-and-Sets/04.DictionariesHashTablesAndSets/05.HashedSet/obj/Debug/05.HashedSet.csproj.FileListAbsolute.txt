@@ -1,0 +1,7 @@
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\bin\Debug\05.HashedSet.exe.config
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\bin\Debug\05.HashedSet.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\bin\Debug\05.HashedSet.pdb
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\bin\Debug\04.HashTable.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\bin\Debug\04.HashTable.pdb
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\obj\Debug\05.HashedSet.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\05.HashedSet\obj\Debug\05.HashedSet.pdb

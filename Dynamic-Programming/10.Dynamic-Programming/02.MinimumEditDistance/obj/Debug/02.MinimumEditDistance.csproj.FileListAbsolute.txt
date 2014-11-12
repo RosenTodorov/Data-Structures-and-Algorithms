@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2013\Projects\01.KnapsackProblem\02.MinimumEditDistance\bin\Debug\02.MinimumEditDistance.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\01.KnapsackProblem\02.MinimumEditDistance\bin\Debug\02.MinimumEditDistance.exe
+D:\user\Documents\Visual Studio 2013\Projects\01.KnapsackProblem\02.MinimumEditDistance\bin\Debug\02.MinimumEditDistance.pdb
+D:\user\Documents\Visual Studio 2013\Projects\01.KnapsackProblem\02.MinimumEditDistance\obj\Debug\02.MinimumEditDistance.exe
+D:\user\Documents\Visual Studio 2013\Projects\01.KnapsackProblem\02.MinimumEditDistance\obj\Debug\02.MinimumEditDistance.pdb

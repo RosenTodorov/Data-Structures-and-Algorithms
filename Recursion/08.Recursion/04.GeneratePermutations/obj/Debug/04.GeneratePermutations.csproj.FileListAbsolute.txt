@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.pdb

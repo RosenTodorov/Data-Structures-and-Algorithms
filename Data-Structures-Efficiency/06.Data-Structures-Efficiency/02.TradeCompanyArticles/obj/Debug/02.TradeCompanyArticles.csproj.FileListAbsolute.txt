@@ -1,0 +1,8 @@
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\bin\Debug\02.TradeCompanyArticles.exe.config
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\bin\Debug\02.TradeCompanyArticles.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\bin\Debug\02.TradeCompanyArticles.pdb
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\bin\Debug\PowerCollections.dll
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\bin\Debug\PowerCollections.xml
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\obj\Debug\02.TradeCompanyArticles.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\obj\Debug\02.TradeCompanyArticles.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\02.TradeCompanyArticles\obj\Debug\02.TradeCompanyArticles.pdb

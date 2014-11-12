@@ -1,0 +1,8 @@
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\bin\Debug\03.CSharpTrie.exe.config
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\obj\Debug\03.CSharpTrie.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\bin\Debug\03.CSharpTrie.exe
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\bin\Debug\03.CSharpTrie.pdb
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\bin\Debug\PowerCollections.dll
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\bin\Debug\PowerCollections.xml
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\obj\Debug\03.CSharpTrie.exe
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\03.CSharpTrie\obj\Debug\03.CSharpTrie.pdb

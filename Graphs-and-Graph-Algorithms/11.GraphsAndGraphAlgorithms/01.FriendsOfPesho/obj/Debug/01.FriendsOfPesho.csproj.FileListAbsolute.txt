@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\bin\Debug\01.FriendsOfPesho.exe.config
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\bin\Debug\01.FriendsOfPesho.exe
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\bin\Debug\01.FriendsOfPesho.pdb
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\obj\Debug\01.FriendsOfPesho.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\obj\Debug\01.FriendsOfPesho.exe
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\01.FriendsOfPesho\obj\Debug\01.FriendsOfPesho.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\bin\Debug\07.PathsInLabirynth.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\bin\Debug\07.PathsInLabirynth.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\bin\Debug\07.PathsInLabirynth.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\obj\Debug\07.PathsInLabirynth.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\obj\Debug\07.PathsInLabirynth.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\07.PathsInLabirynth\obj\Debug\07.PathsInLabirynth.pdb

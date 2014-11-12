@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\bin\Debug\02.CombinationsWithRepet.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\bin\Debug\02.CombinationsWithRepet.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\bin\Debug\02.CombinationsWithRepet.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\obj\Debug\02.CombinationsWithRepet.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\obj\Debug\02.CombinationsWithRepet.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\02.CombinationsWithRepet\obj\Debug\02.CombinationsWithRepet.pdb

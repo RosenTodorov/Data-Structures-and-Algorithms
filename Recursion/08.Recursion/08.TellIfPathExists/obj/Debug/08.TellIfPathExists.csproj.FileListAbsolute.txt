@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\08.TellIfPathExists\bin\Debug\08.TellIfPathExists.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\08.TellIfPathExists\bin\Debug\08.TellIfPathExists.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\08.TellIfPathExists\bin\Debug\08.TellIfPathExists.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\08.TellIfPathExists\obj\Debug\08.TellIfPathExists.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\08.TellIfPathExists\obj\Debug\08.TellIfPathExists.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.Recursion\08.TellIfPathExists\obj\Debug\08.TellIfPathExists.csprojResolveAssemblyReference.cache

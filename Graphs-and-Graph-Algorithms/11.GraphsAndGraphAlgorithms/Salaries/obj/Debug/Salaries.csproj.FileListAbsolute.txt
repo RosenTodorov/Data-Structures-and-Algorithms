@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2013\Projects\11.GraphsAndGraphAlgorithms\Salaries\bin\Debug\Salaries.exe.config

@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\06.SubsetsWithoutRep\bin\Debug\06.SubsetsWithoutRep.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\06.SubsetsWithoutRep\bin\Debug\06.SubsetsWithoutRep.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\06.SubsetsWithoutRep\bin\Debug\06.SubsetsWithoutRep.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\06.SubsetsWithoutRep\obj\Debug\06.SubsetsWithoutRep.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\06.SubsetsWithoutRep\obj\Debug\06.SubsetsWithoutRep.pdb

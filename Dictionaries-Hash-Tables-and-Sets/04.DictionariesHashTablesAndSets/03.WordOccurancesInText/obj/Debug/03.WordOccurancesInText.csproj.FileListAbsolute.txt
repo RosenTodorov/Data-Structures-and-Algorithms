@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\bin\Debug\03.WordOccurancesInText.exe.config
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\bin\Debug\03.WordOccurancesInText.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\bin\Debug\03.WordOccurancesInText.pdb
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\obj\Debug\03.WordOccurancesInText.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\obj\Debug\03.WordOccurancesInText.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\03.WordOccurancesInText\obj\Debug\03.WordOccurancesInText.pdb

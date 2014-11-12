@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\bin\Debug\01.StudentsAndDetails.exe.config
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\obj\Debug\01.StudentsAndDetails.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\bin\Debug\01.StudentsAndDetails.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\bin\Debug\01.StudentsAndDetails.pdb
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\obj\Debug\01.StudentsAndDetails.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\01.StudentsAndDetails\obj\Debug\01.StudentsAndDetails.pdb

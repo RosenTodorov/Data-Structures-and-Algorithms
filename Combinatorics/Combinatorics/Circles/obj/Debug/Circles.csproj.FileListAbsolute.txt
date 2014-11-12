@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2013\Projects\Combinatorics\Circles\bin\Debug\Circles.exe.config
+d:\user\documents\visual studio 2013\Projects\Combinatorics\Circles\bin\Debug\Circles.exe
+d:\user\documents\visual studio 2013\Projects\Combinatorics\Circles\bin\Debug\Circles.pdb
+d:\user\documents\visual studio 2013\Projects\Combinatorics\Circles\obj\Debug\Circles.exe
+d:\user\documents\visual studio 2013\Projects\Combinatorics\Circles\obj\Debug\Circles.pdb

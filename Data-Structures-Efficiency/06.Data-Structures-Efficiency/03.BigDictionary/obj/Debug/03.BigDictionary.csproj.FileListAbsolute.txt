@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\bin\Debug\03.BigDictionary.exe.config
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\bin\Debug\03.BigDictionary.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\bin\Debug\03.BigDictionary.pdb
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\obj\Debug\03.BigDictionary.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\obj\Debug\03.BigDictionary.exe
+d:\user\documents\visual studio 2013\Projects\06.Data-Structures-Efficiency\03.BigDictionary\obj\Debug\03.BigDictionary.pdb

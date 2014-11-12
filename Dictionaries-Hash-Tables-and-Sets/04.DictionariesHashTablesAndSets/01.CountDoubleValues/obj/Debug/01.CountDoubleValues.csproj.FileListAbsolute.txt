@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\bin\Debug\01.CountDoubleValues.exe.config
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\bin\Debug\01.CountDoubleValues.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\bin\Debug\01.CountDoubleValues.pdb
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\obj\Debug\01.CountDoubleValues.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\obj\Debug\01.CountDoubleValues.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\01.CountDoubleValues\obj\Debug\01.CountDoubleValues.pdb

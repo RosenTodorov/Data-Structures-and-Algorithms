@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPasswords", "BinaryPasswords\BinaryPasswords.csproj", "{9E130ECE-14D0-4CC8-8CB3-39301FF620E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles", "Circles\Circles.csproj", "{150F10A9-04BA-4A85-9F6A-2A4D927A3060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E130ECE-14D0-4CC8-8CB3-39301FF620E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E130ECE-14D0-4CC8-8CB3-39301FF620E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E130ECE-14D0-4CC8-8CB3-39301FF620E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E130ECE-14D0-4CC8-8CB3-39301FF620E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150F10A9-04BA-4A85-9F6A-2A4D927A3060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150F10A9-04BA-4A85-9F6A-2A4D927A3060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150F10A9-04BA-4A85-9F6A-2A4D927A3060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150F10A9-04BA-4A85-9F6A-2A4D927A3060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

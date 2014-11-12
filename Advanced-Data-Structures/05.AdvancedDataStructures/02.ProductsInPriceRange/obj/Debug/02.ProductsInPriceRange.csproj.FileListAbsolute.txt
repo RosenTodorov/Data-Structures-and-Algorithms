@@ -1,0 +1,8 @@
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.exe.config
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.exe
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.pdb
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\bin\Debug\PowerCollections.dll
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\bin\Debug\PowerCollections.xml
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.exe
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.pdb
+d:\user\documents\visual studio 2013\Projects\05.AdvancedDataStructures\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.csprojResolveAssemblyReference.cache

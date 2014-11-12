@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\bin\Debug\05.OrderedSubsetsOfElements.exe.config
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\bin\Debug\05.OrderedSubsetsOfElements.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\bin\Debug\05.OrderedSubsetsOfElements.pdb
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\obj\Debug\05.OrderedSubsetsOfElements.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\obj\Debug\05.OrderedSubsetsOfElements.exe
+d:\user\documents\visual studio 2013\Projects\08.Recursion\05.OrderedSubsetsOfElements\obj\Debug\05.OrderedSubsetsOfElements.pdb

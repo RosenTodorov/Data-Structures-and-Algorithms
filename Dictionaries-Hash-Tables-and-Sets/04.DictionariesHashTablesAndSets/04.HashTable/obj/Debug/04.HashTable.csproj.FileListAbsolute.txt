@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe.config
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.pdb
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.exe
+d:\user\documents\visual studio 2013\Projects\04.DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.pdb
